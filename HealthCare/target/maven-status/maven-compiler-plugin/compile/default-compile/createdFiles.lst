@@ -1,0 +1,6 @@
+com\example\JdbcConn\ConJd.class
+com\example\JdbcConn\MainController.class
+com\example\JdbcConn\User.class
+controllers\MainController.class
+com\example\JdbcConn\UserRepository.class
+com\example\JdbcConn\JdbcConnApplication.class
